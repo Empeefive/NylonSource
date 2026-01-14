@@ -36,14 +36,14 @@ CONTROLS ALL ACCOUNT DATA AND IS SUPER DANGEROUS IF GIVEN OUT
 ```json
 "mode": "edit"
 ```
-<br>
+
 **Create**
 <br>
 **The Create Method is used primarily when you create a brand new Snapchat Avatar. This will put automatic values and traits onto your Avatar and follows a semi-strict rule set. This can work well with normal Avatar edits and with paid/custom edits.** <br>
 ```json
 "mode": "create"
 ```
-<br>
+
 **Reset**
 <br>
 **The Reset Method is the most effective method for bypassing the Snapchat Marketplace. This allows you to Reset your avatar before the marketplace can verify anything. You can reset your avatar to a custom avatar and the system will think it's the generic reset, This is a bad method when it comes to simple or small edits, Should be only used for custom/paid item spawning.** <br>
