@@ -7,5 +7,5 @@
 The bitmoji token method is a faster and simple method. <br>
 Works better with normal item spawning or script use.
 # Authorization Bearer
-The authorization bearer method is a stronger method and more reliabel and stable. <br>
-Works best with normal item spawning or custom/paid and script use.
+The authorization bearer method is a stronger method and more reliable and stable. <br>
+Works best with normal item spawning or custom/paid spawning and script use.
