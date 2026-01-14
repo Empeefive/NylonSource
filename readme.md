@@ -27,7 +27,7 @@ Snapchat Data (Chats/Settings/Binary)
 
 CONTROLS ALL ACCOUNT DATA AND IS SUPER DANGEROUS IF GIVEN OUT
 ```
-# JSON Class Methods
+# JSON Class Methods (Mode)
 **The class method in Snapchat is *CRUCIAL*, This allows you to actually create changes to the Avatar, This is also the only way to bypass spawning paid items.** <br>
 <br>
 **Edit**
